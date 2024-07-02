@@ -1,6 +1,6 @@
 public class TemperatureConverter {
 
-  // Takes a Fahrenheit temperature and returns the Celsius equivalent.
+  // Takes a Fahrenheit temperature and returns the Celsius equivalent.jjjjj
 
   public static Decimal FahrenheitToCelsius(Decimal fh) {
 
